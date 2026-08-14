@@ -21,7 +21,7 @@ export default function Home() {
       <section className="flex flex-1 flex-col justify-center px-6 pt-14 pb-10">
         <div className="mx-auto w-full max-w-sm">
           <span className="inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700">
-            Coming to your campus
+            Coming soon to your campus
           </span>
 
           <h1 className="mt-4 text-4xl font-bold leading-[1.1] tracking-tight text-gray-900">
